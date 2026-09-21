@@ -8,4 +8,5 @@ public class Usuario
     public string HashSenha { get; set; } = string.Empty;
     public DateTime CriadoEm { get; set; } = DateTime.UtcNow;
     public ICollection<Jogador> Jogadores { get; set; } = new List<Jogador>();
+    public ICollection<RefreshToken> RefreshTokens { get; set; } = new List<RefreshToken>();
 }
