@@ -8,4 +8,5 @@
   <Project Path="DominoPontaDeQuina.Infrastructure/DominoPontaDeQuina.Infrastructure.csproj" />
   <Project Path="DominoPontaDeQuina.Migrations/DominoPontaDeQuina.Migrations.csproj" />
   <Project Path="DominoPontaDeQuina.Tests/DominoPontaDeQuina.Tests.csproj" />
+  <Project Path="DominoPontaDeQuina.UnitTests/DominoPontaDeQuina.UnitTests.csproj" />
 </Solution>
